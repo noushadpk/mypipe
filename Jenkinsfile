@@ -6,7 +6,7 @@ pipeline {
                      echo 'Hi, this is Zulaikha from edureka'
                  }
                  }
-                 stage('Two') {
+                 stage('Twwwo') {
                  steps {
                     input('Do you want to proceed?')
                  }
