@@ -12,11 +12,6 @@ pipeline {
                  }
                  }
                  stage('Three') {
-                 when {
-                       {
-                            branch "master"
-                       }
-                 }
                  steps {
                        echo "Hello"
                  }
